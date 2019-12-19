@@ -21,6 +21,7 @@ h3 {
 .container {
     margin: 100px auto;
     width: 375px;
+    background-color: #aaa;
 }
 
 .content{
@@ -41,7 +42,7 @@ nav {
   float: right;
 }
 
-.box1, .box2 {
+.location {
   background-color: #aaa;
   border: 1px solid #000;
   float: left;
@@ -51,7 +52,7 @@ nav {
 }
 
 /*box WITH hover */
-.box1:hover  {
+.location:hover  {
   background-color: #656565;
   margin: 0%;
   border: 1px solid #000;
